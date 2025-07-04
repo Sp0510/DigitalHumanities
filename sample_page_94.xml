@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2025</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from <ref target="https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1">digital edition.</ref></note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5474" lry="7115" xml:id="facs_94">
+         <graphic url="0094_094_45v.jpeg" width="5474px" height="7115px"/>
+         <zone points="4708,318 5199,318 5199,636 4708,636" rendition="TextRegion" xml:id="facs_94_r">
+            <zone points="4776,367 5029,367 5029,583 4776,583" rendition="Line" xml:id="facs_94_tr_1_tl_1"/>
+         </zone>
+         <zone points="382,835 5297,835 5297,6612 382,6612" rendition="TextRegion" xml:id="facs_94_tr_1">
+            <zone points="451,872 5263,872 5263,1323 451,1323" rendition="Line" xml:id="facs_94_tr_1_tl_2"/>
+            <zone points="457,1293 860,1293 860,1546 457,1546" rendition="Line" xml:id="facs_94_tr_1_tl_3"/>
+            <zone points="1149,1486 4668,1486 4668,1895 1149,1895" rendition="Line" xml:id="facs_94_tr_1_tl_4"/>
+            <zone points="379,1871 1107,1871 1107,2183 379,2183" rendition="Line" xml:id="facs_94_tr_1_tl_5"/>
+            <zone points="1311,2099 4926,2099 4926,2496 1311,2496" rendition="Line" xml:id="facs_94_tr_1_tl_6"/>
+            <zone points="451,2448 5197,2448 5197,2815 451,2815" rendition="Line" xml:id="facs_94_tr_1_tl_7"/>
+            <zone points="463,2731 5239,2731 5239,3104 463,3104" rendition="Line" xml:id="facs_94_tr_1_tl_8"/>
+            <zone points="433,3026 5215,3026 5215,3435 433,3435" rendition="Line" xml:id="facs_94_tr_1_tl_9"/>
+            <zone points="439,3326 2003,3326 2003,3711 439,3711" rendition="Line" xml:id="facs_94_tr_1_tl_10"/>
+            <zone points="1233,3645 4577,3645 4577,4030 1233,4030" rendition="Line" xml:id="facs_94_tr_1_tl_11"/>
+            <zone points="1113,3886 5185,3886 5185,4277 1113,4277" rendition="Line" xml:id="facs_94_tr_1_tl_12"/>
+            <zone points="349,4223 5155,4223 5155,4601 349,4601" rendition="Line" xml:id="facs_94_tr_1_tl_13"/>
+            <zone points="403,4505 5239,4505 5239,4884 403,4884" rendition="Line" xml:id="facs_94_tr_1_tl_14"/>
+            <zone points="385,4806 5161,4806 5161,5233 385,5233" rendition="Line" xml:id="facs_94_tr_1_tl_15"/>
+            <zone points="1269,5137 5179,5137 5179,5540 1269,5540" rendition="Line" xml:id="facs_94_tr_1_tl_16"/>
+            <zone points="373,5444 5179,5444 5179,5823 373,5823" rendition="Line" xml:id="facs_94_tr_1_tl_17"/>
+            <zone points="367,5714 5179,5714 5179,6117 367,6117" rendition="Line" xml:id="facs_94_tr_1_tl_18"/>
+            <zone points="415,6021 4848,6021 4848,6388 415,6388" rendition="Line" xml:id="facs_94_tr_1_tl_19"/>
+            <zone points="385,6316 3699,6316 3699,6695 385,6695" rendition="Line" xml:id="facs_94_tr_1_tl_20"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_94" n="94" xml:id="img_0094"/>
+            <ab facs="#facs_94_r" type="">
+               <l facs="#facs_94_tr_1_tl_1" n="N001">44</l>
+            </ab>
+            <ab facs="#facs_94_tr_1" type="">
+               <l facs="#facs_94_tr_1_tl_2" n="N001">grave scandal which would have ruined my reputation in the</l>
+               <l facs="#facs_94_tr_1_tl_3" n="N002" >force"</l>
+               <l facs="#facs_94_tr_1_tl_4" n="N003" rend="indent">Holmes smiled and clapped Lestrade upon the</l>
+               <l facs="#facs_94_tr_1_tl_5" n="N004">shoulder</l>
+               <l facs="#facs_94_tr_1_tl_6" n="N005" rend="indent">"Instead of being ruined, my good ais, you will</l>
+               <l facs="#facs_94_tr_1_tl_7" n="N006">find that your reputation has been enormously enhranced. Just</l>
+               <l facs="#facs_94_tr_1_tl_8" n="N007">make a few alterations in that Report which you were writing,</l>
+               <l facs="#facs_94_tr_1_tl_9" n="N008">and they will understand how hard it is to throw dust in the eyes</l>
+               <l facs="#facs_94_tr_1_tl_10" n="N009">of Inspector Lestrade"</l>
+               <l facs="#facs_94_tr_1_tl_11" n="N010" rend="indent">"And you don't want your name to appear"</l>
+               <l facs="#facs_94_tr_1_tl_12" n="N011" rend="indent">"Not at all. The work is its own reward. Perhaps I</l>
+               <l facs="#facs_94_tr_1_tl_13" n="N012">shall get the credit also at some distant day when I permit</l>
+               <l facs="#facs_94_tr_1_tl_14" n="N013">my gealous historian to lay out his foolscap once anore - eh,</l>
+               <l facs="#facs_94_tr_1_tl_15" n="N014">Watson? Well now, let us see where this rat has been lurking.</l>
+               <l facs="#facs_94_tr_1_tl_16" n="N015" rend="indent">A lath and plaster partition had been run across the</l>
+               <l facs="#facs_94_tr_1_tl_17" n="N016">passage six feet from the end, with a door cunningly concealed</l>
+               <l facs="#facs_94_tr_1_tl_18" n="N017">in it. It was let within by shits under the eaves. A few articles</l>
+               <l facs="#facs_94_tr_1_tl_19" n="N018">of furniture and a supply of food and water were within,</l>
+               <l facs="#facs_94_tr_1_tl_20" n="N019">together with a number of books and papers.</l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>

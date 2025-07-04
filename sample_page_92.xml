@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author></titleStmt>
+         <seriesStmt><title>DH Summerschool - Antwerp 2025</title></seriesStmt>
+         <sourceDesc>
+            <bibl><title type="main">The adventure of the Norwood builder</title><author>Arthur Conan Doyle</author><respStmt><resp>Writer</resp><name>Arthur Conan Doyle</name></respStmt><idno type="Transkribus">2892283</idno><note>Henry W. and Albert A. Berg Collection of English and American Literature, The New York Public Library. (1881 - 1910). Return of Sherlock Holmes, The: No. 2. The adventure of the Norwood builder. Holograph Retrieved from <ref target="https://digitalcollections.nypl.org/items/95a54c30-732a-0136-b6bf-4dfacf2ed6b1">digital edition.</ref></note></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5491" lry="7115" xml:id="facs_92">
+         <graphic url="0092_092_44v.jpeg" width="5491px" height="7115px"/>
+         <zone points="4827,467 5222,467 5222,696 4827,696" rendition="TextRegion" xml:id="facs_92_r_19" subtype="page-number">
+         </zone>
+         <zone points="183,994 5390,994 5390,6738 183,6738" rendition="TextRegion" xml:id="facs_92_r_21">
+            <zone points="334,934 4725,934 4725,1286 334,1286" rendition="Line" xml:id="facs_92_l"/>
+            <zone points="2616,1256 4967,1256 4967,1633 2616,1633" rendition="Line" xml:id="facs_92_l_260"/>
+            <zone points="1633,1256 2573,1256 2573,1633 1633,1633" rendition="Line" xml:id="facs_92_l_253"/>
+            <zone points="359,1243 1614,1243 1614,1602 359,1602" rendition="Line" xml:id="facs_92_l_246"/>
+            <zone points="359,1552 5338,1552 5338,1973 359,1973" rendition="Line" xml:id="facs_92_l_108"/>
+            <zone points="1206,1874 5276,1874 5276,2245 1206,2245" rendition="Line" xml:id="facs_92_l_150"/>
+            <zone points="334,2115 2567,2115 2567,2511 334,2511" rendition="Line" xml:id="facs_92_l_216"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_92" n="92" xml:id="img_0092"/>
+            <ab facs="#facs_92_r_21" type="">
+               <l facs="#facs_92_l" n="N001">the bight light of the hall and preering at us and at the</l>
+               <l facs="#facs_92_l_246" n="N002">smouldering fixe</l>
+               <l facs="#facs_92_l_253" n="N003"><del>with amose</del></l>
+               <l facs="#facs_92_l_260" n="N004">It was anodious face, crafty.</l>
+               <l facs="#facs_92_l_108" n="N005">vicious, malynant, with shifty light grey eyes and white cyclashes.</l>
+               <l facs="#facs_92_l_150" n="N006" rend="indent">"What's this then? said Lestrade allast "What have you</l>
+               <l facs="#facs_92_l_216" n="N007">been doing all this time -ch?"</l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>

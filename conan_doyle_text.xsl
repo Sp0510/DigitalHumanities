@@ -64,6 +64,10 @@
     </xsl:template>
     
     <!-- add additional templates below, for example to transform the tei:l in <br/> empty elements, tei:hi[@rend = 'sup'] in <sup> elements, the underlined text, additions with the attribute "overwritten" etc. -->
-
+    <!-- Template per ogni linea -->
+    <xsl:template match="tei:l">
+       <xsl:apply-templates/>
+       <br/> 
+    </xsl:template>
     
 </xsl:stylesheet>

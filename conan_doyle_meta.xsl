@@ -33,5 +33,14 @@
         <hr/>
     </xsl:template>
     
+    <xsl:template match="tei:ref">
+  <a>
+    <xsl:attribute name="href">
+      <xsl:value-of select="@target"/>
+    </xsl:attribute>
+    <xsl:apply-templates/>
+  </a>
+</xsl:template>
+
 
 </xsl:stylesheet>
